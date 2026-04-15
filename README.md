@@ -1,17 +1,17 @@
 ## Hi! 👋
-I'm a coder from Germany.
+I'm a 17 year old coder from Germany.
 
 ## 📌 About me
->  🎮 Game developer & software developer
->  🧠 Interested in 3D game development & kernel-level programming
->  🚀 Currently improving my Java skills by building a voxel game
+>  🎮 Game developer & software developer<br>
+>  🧠 Interested in 3D game development & kernel-level programming<br>
+>  🚀 Currently improving my Java skills by building a voxel game<br>
 
 ## 🛠️ Workflow
->  💻 Languages: Java & C++
->  🧰 C++ IDE: Visual Studio 2022
->  ☕ Java IDE: IntelliJ IDEA
+>  💻 Languages: Java & C++<br>
+>  🧰 C++ IDE: Visual Studio 2022<br>
+>  ☕ Java IDE: IntelliJ IDEA<br>
 
 ## 🧠 Interests
->  🎮 Game & Software Development
->  🛠️ Computer Building
->  📜 History
+>  🎮 Game & Software Development<br>
+>  🛠️ Computer Building<br>
+>  📜 History<br>
