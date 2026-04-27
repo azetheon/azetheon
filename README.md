@@ -3,7 +3,7 @@ I'm a 17 year old coder from Germany.
 
 ## 📌 About me
 >  🎮 Game developer & software developer<br>
->  🧠 Interested in 3D game development & kernel-level programming<br>
+>  🧠 Interested in 3D game development<br>
 >  🚀 Currently improving my Java skills by building a voxel game<br>
 
 ## 🛠️ Workflow
